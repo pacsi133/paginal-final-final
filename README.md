@@ -130,7 +130,7 @@
         </div>
 
         <div class="producto">
-             <p> <a href=""><img src="https://i.pinimg.com/564x/4b/c9/25/4bc925416679069ac649658b5184c16d.jpg"  alt="Polo blanco bonito"></a>
+             <p> <a href="camisa blanca.html"><img src="https://i.pinimg.com/564x/4b/c9/25/4bc925416679069ac649658b5184c16d.jpg"  alt="Polo blanco bonito"></a>
             <div class="texto-precio">
                 <p>Camisa blanca</p>
                 <p>Precio: S/ 79</p>
