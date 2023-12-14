@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0"
+		/>
+		<title>Pagina Producto</title>
+		<link rel="stylesheet" href="styles.css" />
+	</head>
+	<body>
+		<header>
+			<h1>KIRA</h1>
+		</header>
+
+		<div class="container-title">Camisa blanca</div>
+
+		<main>
+			<div class="container-img">
+				<img src="img src="https://i.pinimg.com/564x/4b/c9/25/4bc925416679069ac649658b5184c16d.jpg"
+					alt="imagen-producto"
+				/>
+			</div>
+			<div class="container-info-product">
+				<div class="container-price">
+					<span>S/ 79.00</span>
+					<i class="fa-solid fa-angle-right"></i>
+				</div>
+
+					</div>
+					<div class="form-group">
+						<label for="size">Talla</label>
+						<select name="size" id="size">
+							<option disabled selected value="">
+								Escoge una opción
+							</option>
+							<option value="S">S</option>
+							<option value="M">M</option>
+							<option value="L">L</option>
+							<option value="XL">XL</option>
+						</select>
+					</div>
+					<button class="btn-clean">Limpiar</button>
+				</div>
+
+				<div class="container-add-cart">
+					<div class="container-quantity">
+						<input
+							type="number"
+							placeholder="1"
+							value="1"
+							min="1"
+							class="input-quantity"
+						/>
+						<div class="btn-increment-decrement">
+							<i class="fa-solid fa-chevron-up" id="increment"></i>
+							<i class="fa-solid fa-chevron-down" id="decrement"></i>
+						</div>
+					</div>
+					<button class="btn-add-to-cart">
+						<i class="fa-solid fa-plus"></i>
+						Añadir al carrito
+					</button>
+				</div>
+
+				<div class="container-description">
+					<div class="title-description">
+						<h4>Descripción</h4>
+						<i class="fa-solid fa-chevron-down"></i>
+					</div>
+					<div class="text-description">
+						<p>
+							Presentamos nuestra exclusiva camisa de dos bolsillos delanteros, diseñada para aquellos que buscan la combinación perfecta de estilo moderno y utilidad práctica. Esta prenda es mucho más que una simple camisa; es una declaración de moda funcional que se adapta a tu vida ocupada.
+						</p>
+					</div>
+				</div>
+
+				<div class="container-additional-information">
+					<div class="title-additional-information">
+						<h4>Información adicional</h4>
+						<i class="fa-solid fa-chevron-down"></i>
+					</div>
+					<div class="text-additional-information hidden">
+
+						<p>Diseño Elegante: La camisa presenta un diseño contemporáneo que destaca por su estilo y versatilidad. Es la elección perfecta para cualquier ocasión, desde reuniones casuales hasta eventos más formales.</p>
+
+<p>Botones a Juego: Los botones a juego a lo largo de la camisa ofrecen un acabado pulido y elegante, añadiendo un toque extra de estilo a tu apariencia.</p>
+
+<p>Trabajo o Tiempo Libre: Perfecta tanto para el entorno laboral como para tu tiempo libre, esta camisa es una inversión versátil que se adapta a tu estilo de vida ocupado.</p>
+					</div>
+				</div>
+
+				
+					
+				</div>
+
+				</div>
+			</div>
+		</main>
+
+	</body>
+</html>

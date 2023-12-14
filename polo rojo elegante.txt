@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0"
+		/>
+		<title>Pagina Producto</title>
+		<link rel="stylesheet" href="styles.css" />
+	</head>
+	<body>
+		<header>
+			<h1>KIRA</h1>
+		</header>
+
+		<div class="container-title">Polo rojo elegante</div>
+
+		<main>
+			<div class="container-img">
+				<img src="https://i.pinimg.com/564x/27/58/61/27586140fcdaaed1c759cb9551da984e.jpg"
+					alt="imagen-producto"
+				/>
+			</div>
+			<div class="container-info-product">
+				<div class="container-price">
+					<span>S/ 89.00</span>
+					<i class="fa-solid fa-angle-right"></i>
+				</div>
+
+					</div>
+					<div class="form-group">
+						<label for="size">Talla</label>
+						<select name="size" id="size">
+							<option disabled selected value="">
+								Escoge una opción
+							</option>
+							<option value="S">S</option>
+							<option value="M">M</option>
+							<option value="L">L</option>
+							<option value="XL">XL</option>
+						</select>
+					</div>
+					<button class="btn-clean">Limpiar</button>
+				</div>
+
+				<div class="container-add-cart">
+					<div class="container-quantity">
+						<input
+							type="number"
+							placeholder="1"
+							value="1"
+							min="1"
+							class="input-quantity"
+						/>
+						<div class="btn-increment-decrement">
+							<i class="fa-solid fa-chevron-up" id="increment"></i>
+							<i class="fa-solid fa-chevron-down" id="decrement"></i>
+						</div>
+					</div>
+					<button class="btn-add-to-cart">
+						<i class="fa-solid fa-plus"></i>
+						Añadir al carrito
+					</button>
+				</div>
+
+				<div class="container-description">
+					<div class="title-description">
+						<h4>Descripción</h4>
+						<i class="fa-solid fa-chevron-down"></i>
+					</div>
+					<div class="text-description">
+						<p>
+							Descubre la fusión perfecta entre la elegancia del cuello de camisa y la comodidad del polo en nuestra exclusiva prenda. Este polo con cuello de camisa es mucho más que una camiseta casual; es una declaración de estilo que transformará tu guardarropa casual en una expresión de sofisticación moderna.
+						</p>
+					</div>
+				</div>
+
+				<div class="container-additional-information">
+					<div class="title-additional-information">
+						<h4>Información adicional</h4>
+						<i class="fa-solid fa-chevron-down"></i>
+					</div>
+					<div class="text-additional-information hidden">
+
+						<p>Ajuste Contemporáneo: Diseñado para un ajuste moderno y favorecedor que realza tu figura. La versatilidad del diseño permite combinarlo con jeans, pantalones chinos o incluso debajo de una chaqueta para un toque más formal.</p>
+
+<p>Fácil de Cuidar: Mantén tu estilo impecable sin esfuerzo. Este polo es fácil de cuidar y se mantiene fresco y elegante con mínimo esfuerzo.</p>
+
+<p>Trabajo o Tiempo Libre: Perfecta tanto para el entorno laboral como para tu tiempo libre, esta camisa es una inversión versátil que se adapta a tu estilo de vida ocupado.</p>
+					</div>
+				</div>
+
+				
+					
+				</div>
+
+				</div>
+			</div>
+		</main>
+
+	</body>
+</html>
