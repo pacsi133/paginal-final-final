@@ -122,7 +122,7 @@
         <h2>Ofertas Especiales</h2>
 
         <div class="producto">
-            <p> <a href=""><img src="https://i.pinimg.com/564x/dc/5f/20/dc5f2084010df0f3a7bbb0c2482fc937.jpg" alt="Polo de lana azul"></a>
+            <p> <a href="camisa blanca.html"><img src="https://i.pinimg.com/564x/dc/5f/20/dc5f2084010df0f3a7bbb0c2482fc937.jpg" alt="Polo de lana azul"></a>
             <div class="texto-precio">
                 <p>Polo de lana azul</p>
                 <p>Precio: S/ 99</p>
