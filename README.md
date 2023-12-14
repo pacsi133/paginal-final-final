@@ -139,7 +139,7 @@
 
         <!-- Imágenes restauradas -->
         <div class="producto">
-           <p> <a href=""> <img src="https://i.pinimg.com/564x/27/58/61/27586140fcdaaed1c759cb9551da984e.jpg" alt="Polo rojo elegante"></a>
+           <p> <a href="polo rojo elegante.html"> <img src="https://i.pinimg.com/564x/27/58/61/27586140fcdaaed1c759cb9551da984e.jpg" alt="Polo rojo elegante"></a>
             <div class="texto-precio">
                 <p>Polo rojo elegante</p>
                 <p>Precio: S/ 89</p>
